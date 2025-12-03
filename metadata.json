@@ -1,0 +1,7 @@
+{
+  "name": "Engenheiro IA - Assistente Análise Imagens",
+  "description": "Um assistente de engenharia inteligente que analisa imagens técnicas e gera planos de comando seguros e estruturados com base em contextos RAG usando Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
